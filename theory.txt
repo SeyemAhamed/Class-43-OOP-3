@@ -1,0 +1,7 @@
+
+
+=>Constructor
+=>Destructor
+=>Abstract
+=>Trait
+=>Interface
